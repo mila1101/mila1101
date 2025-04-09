@@ -1,4 +1,4 @@
-## Hellooo ໒꒰ྀིᵔ ᵕ ᵔ ꒱ྀི১
+## Hellooo ໒   ᵔ ᵕ ᵔ 🌸১
 
 Helloo! I’m a Mechatronics Engineer with a Bachelor's degree and a knack for blending mechanical, electrical, and software wizardry. ₊˚⊹♡⋆.° 
 Currently diving into software development at 42 Heilbronn.

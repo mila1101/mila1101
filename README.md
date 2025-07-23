@@ -6,7 +6,7 @@ Currently diving into software development at 42 Heilbronn.
 You can also find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milasoklovacki)
-[![Website](https://img.shields.io/badge/Website-#D5006D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://milasoklovacki.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-%23d63384?style=for-the-badge&logo=web&logoColor=white)](https://milasoklovacki.netlify.app/)
 
 <img src="https://github.com/user-attachments/assets/8f2ca798-a9f0-46ff-83b6-90264cc68ae2" alt="ImportedPhoto_1721681104900" width="200" height="200"/>
 
